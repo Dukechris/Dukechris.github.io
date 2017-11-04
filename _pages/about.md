@@ -46,4 +46,4 @@ Friends
 - [Yandong Wen](https://ydwen.github.io): Ph.D student in Carnegie Mellon University
 - [Xindi Liu](https://elson8080.github.io): Full stack engineer in Meituan.com
 - [Sishun Deng](https://www.velacielad.com): UX Designer
-- []Wenbin Du](https://lanlianhuaer.github.io/): Ph.D student in Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+- [Wenbin Du](https://lanlianhuaer.github.io/): Ph.D student in Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
