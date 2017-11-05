@@ -10,6 +10,6 @@ citation: 'Xiao Zhang, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao. Range Los
 ---
 
 
-[Download paper here](http://dukechris.github.io/files/range.pdf)
+[Download the paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Range_Loss_for_ICCV_2017_paper.pdf)
 
-**Xiao Zhang**, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao. Range Loss for Deep Face Recognition with Long-Tailed Training Data. in ICCV, 2017.
+**Xiao Zhang**, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao; The IEEE International Conference on Computer Vision (ICCV), 2017, pp. 5409-5418. [Poster](https://dukechris.github.io/files/rangeloss_poster.pdf)
