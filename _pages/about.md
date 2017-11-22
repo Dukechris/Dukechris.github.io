@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-<font color="red">One paper accepted by ICCV 2017, it's my first publication ~ cheers!</font>
+<font color="red">One paper accepted by ICCV 2017 ~ cheers!</font>
 
 <br/>
 
-<font color="red">I'm looking for a Ph.D position in Computer Vision and Deep learning in 2018 fall.</font>
+<font color="red">I'm looking for a Ph.D/M.Phil position in Computer Vision and Deep learning in 2018 fall.</font>
 
 <br/>
 
-I got my Bsc. Engineering on Software Engineering in Tianjin University at 2017 fall. I'm also minored in financial management. I am an IEEE Member.
-Now I am an intern computer vision researcher, supervised by [**Dr. Junjie Yan**](https://www.cbsr.ia.ac.cn/users/jjyan/main.htm) at [SenseTime](https://www.sensetime.com) and do research about face recognition and deep learning.
+I got my Bachelor Degree in Engineering in Tianjin University at 2017 fall. I'm also minored in financial management. I am an IEEE Member.
+Now I am an intern computer vision researcher supervised by [**Dr. Junjie Yan**](https://www.cbsr.ia.ac.cn/users/jjyan/main.htm) at [**SenseTime**](https://www.sensetime.com) and do research about face recognition and deep learning.
 I am also a visiting student at Multimedia Lab, supervised by [**Prof. Yu Qiao**](https://mmlab.siat.ac.cn/yuqiao/), Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
 I'm very luck to have close cooperation with [**Zhiyuan Fang**](https://jacobswan1.github.io). 
 I love playing the piano and photograph. I'll be very happy if we can talk about these.
@@ -34,7 +34,7 @@ I also interested in reinforcement learning, machine learning and information vi
 Publication
 ======
 
-- Range Loss for Deep Face Recognition with Long-Tailed Training Data, **Xiao Zhang**, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao; The IEEE International Conference on Computer Vision (ICCV), 2017, pp. 5409-5418.[[PDF]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Range_Loss_for_ICCV_2017_paper.pdf) [[Poster]](https://dukechris.github.io/files/rangeloss_poster.pdf)
+- Range Loss for Deep Face Recognition with Long-Tailed Training Data, **Xiao Zhang**, Zhiyuan Fang, Yandong Wen, Zhifeng Li, Yu Qiao; The IEEE International Conference on Computer Vision (ICCV), 2017, pp. 5409-5418.   [[PDF]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Range_Loss_for_ICCV_2017_paper.pdf) [[Poster]](https://dukechris.github.io/files/rangeloss_poster.pdf)
 
 
 Academic Services
